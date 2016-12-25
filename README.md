@@ -7,5 +7,5 @@ Gives Min and Max Temperature as well as brief description of the climate forthe
 • ServicesUsed:<br>
 OpenWeatherMap
 #
-<img src="https://cloud.githubusercontent.com/assets/16516636/21470183/c1fe0eb0-ca96-11e6-88cf-d7683bdc7f16.pn" width="500">
+<img src="https://cloud.githubusercontent.com/assets/16516636/21470183/c1fe0eb0-ca96-11e6-88cf-d7683bdc7f16.png" width="500">
 
