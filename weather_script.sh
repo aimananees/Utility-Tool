@@ -31,10 +31,12 @@ then                                            #
     done                                        #
                                                 #
 elif [ $b == 0 ]                                #IF 'b' == 0
-then                                            #
-    for (( i=1; i<7; i++ ))                     #Run the FOR loop to run from index 1 to 7(exclusive)
+then
+    j=0                                         #
+    for ((i=1; i<7; i++ ))                     #Run the FOR loop to run from index 1 to 7(exclusive)
     do                                          #
-	forecast[i]=${days[i]}                      #Append the values in 'forecast' array
+	forecast[j]=${days[i]}                  #Append the values in 'forecast' array
+    	j=$((j+1))                      	#
     done                                        #
                                                 #
 else                                            #
