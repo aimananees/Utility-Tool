@@ -34,7 +34,7 @@ A tool that gives daily news.
 •Engadget<br>
 •ESPN<br>
 
-<img src="https://cloud.githubusercontent.com/assets/16516636/21474362/fd12ba20-cb43-11e6-9472-1b380c320226.png" width="500">
+<img src="https://cloud.githubusercontent.com/assets/16516636/21474362/fd12ba20-cb43-11e6-9472-1b380c320226.png" width="600">
 
 
 
