@@ -5,6 +5,9 @@
 • ServicesUsed:<br>
 OpenWeatherMap•NewsAPI<br>
 ##Main menu of Utility Tool
+<img src="https://cloud.githubusercontent.com/assets/16516636/21474245/866dbede-cb42-11e6-9692-12f38aed12fd.png" width="300">
+
+
 
 ## Alarm Clock
 When selected from the main menu of the zenity UI,it takes in the hour, minute and am/pm and ringtone options through a zenity UI prompt and calculates the time remaining in seconds and puts the system to sleep for that amount of time. After the time is elapsed we use a command called 'play'.
