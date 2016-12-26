@@ -25,11 +25,11 @@ Gives Min and Max Temperature as well as brief description of the climate for th
 
 ## News Tool
 A tool that gives daily news.
-Features:<br>
+###Features:<br>
 •World news<br>
 •Technology <br>
 •Sports<br>
-Sources:<br>
+###Sources:<br>
 •BBC News<br>
 •Engadget<br>
 •ESPN<br>
